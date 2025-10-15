@@ -7,8 +7,8 @@ The **Dashboard Viewer** provides the capability to display dashboards in Window
 ## Data Presentation
 The topics in this section provide information on how the **Dashboard Viewer** presents data.
 * [Data Presentation Basics ](data-presentation/data-presentation-basics.md)
-* [Master Filtering](dashboard-viewer/data-presentation/master-filtering.md)
-* [Drill-Down](dashboard-viewer/data-presentation/drill-down.md)
+* [Master Filtering](data-presentation/master-filtering.md)
+* [Drill-Down](data-presentation/drill-down.md)
 * [Dashboard Layout](dashboard-viewer/data-presentation/dashboard-layout.md)
 
 ## Dashboard Parameters
