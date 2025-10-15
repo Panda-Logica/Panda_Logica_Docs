@@ -1,7 +1,7 @@
 # Dashboard Viewer
 The **Dashboard Viewer** provides the capability to display dashboards in Windows Forms applications.
 
-![WinViewerOverview](https://raw.githubusercontent.com/Panda-Logica/Panda_Logica_Docs/gh-pages/snippets/mbi/V1.0.0.2/InAppHelp/MainApp/dashboard-viewer/images/img124551.png)
+![WinViewerOverview](..dashboard-viewer/images/img124551.png)
 
 
 ## Data Presentation
