@@ -1,12 +1,7 @@
----
-title: Dashboard Viewer
-author: Natalia Kazakova
-legacyId: 15759
----
 # Dashboard Viewer
 The **Dashboard Viewer** provides the capability to display dashboards in Windows Forms applications.
 
-![WinViewerOverview](../images/img124551.png)
+![WinViewerOverview](../InAppHelp/MainApp/images/img124551.png)
 
 ## Data Presentation
 The topics in this section provide information on how the **Dashboard Viewer** presents data.
