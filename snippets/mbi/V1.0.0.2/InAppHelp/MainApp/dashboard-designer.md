@@ -1,8 +1,3 @@
----
-title: Dashboard Designer
-author: Natalia Kazakova
-legacyId: 15758
----
 # Dashboard Designer
 The **Dashboard Designer** provides an intuitive UI that facilitates data binding and shaping, and layout design. Many of these normally complex tasks can be accomplished with a simple drag-and-drop operation, allowing you to start creating dashboards immediately.
 
