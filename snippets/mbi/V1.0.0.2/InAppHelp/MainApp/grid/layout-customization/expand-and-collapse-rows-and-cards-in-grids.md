@@ -29,5 +29,5 @@ To expand/collapse a master row, do one of the following:
 Do one of the following:
 * Click a card's Expand button:
 	
-	![EU_XtraGrid_CardView_ExpandButton](../../../images/img7497.png)
+	![EU_XtraGrid_CardView_ExpandButton](../../../MainApp/images/img7497.png)
 * Click a card's caption and press PLUS (to expand the card) or MINUS (to collapse the card).
