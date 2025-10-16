@@ -1,8 +1,3 @@
----
-title: Layout Customization
-author: Natalia Kazakova
-legacyId: 9666
----
 # Layout Customization
 This section describes how to customize the Pivot Table layout by expanding and collapsing field values, as well as hiding, displaying and reordering fields.
 
