@@ -1,8 +1,3 @@
----
-title: Drill-Down
-author: Natalia Kazakova
-legacyId: 16628
----
 # Drill-Down
 Dashboard provides the **drill-down** feature, which allows you to change the detail level of data displayed in a dashboard item. This feature allows you to drill down to display the details, or drill up to view more general information.
 

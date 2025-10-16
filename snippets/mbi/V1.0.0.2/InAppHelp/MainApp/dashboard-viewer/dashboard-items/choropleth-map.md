@@ -1,8 +1,3 @@
----
-title: Choropleth Map
-author: Natalia Kazakova
-legacyId: 16693
----
 # Choropleth Map
 The topics in this section describe the **Choropleth Map** dashboard item, which colorizes the required areas in proportion to the provided values.
 * [Data Presentation Basics](choropleth-map/data-presentation-basics.md)

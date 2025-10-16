@@ -1,8 +1,3 @@
----
-title: Dashboard Layout
-author: Natalia Kazakova
-legacyId: 16710
----
 # Dashboard Layout
 This topic describes the features related to the dashboard layout.
 * [Dashboard Title](#dashboard-title)

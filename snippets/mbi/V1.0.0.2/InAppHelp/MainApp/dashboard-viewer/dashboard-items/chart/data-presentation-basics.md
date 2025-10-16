@@ -1,8 +1,3 @@
----
-title: Data Presentation Basics
-author: Natalia Kazakova
-legacyId: 16658
----
 # Data Presentation Basics
 The **Chart** dashboard item presents data visually using different types of series.
 

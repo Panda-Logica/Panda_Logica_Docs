@@ -1,8 +1,3 @@
----
-title: Coloring Concepts
-author: Natalia Kazakova
-legacyId: 17944
----
 # Coloring 
 
 The Dashboard Designer associates dimension values/measures and specified colors to paint dashboard item elements. This topic describes how to configure color settings in the WinForms Designer.

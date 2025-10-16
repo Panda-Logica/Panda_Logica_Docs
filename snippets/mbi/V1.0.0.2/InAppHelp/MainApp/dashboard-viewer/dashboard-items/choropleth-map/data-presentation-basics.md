@@ -1,8 +1,3 @@
----
-title: Data Presentation Basics
-author: Natalia Kazakova
-legacyId: 16679
----
 # Data Presentation Basics
 The **Choropleth Map** dashboard item colorizes map areas in the following two ways.
 * Based on the values provided.

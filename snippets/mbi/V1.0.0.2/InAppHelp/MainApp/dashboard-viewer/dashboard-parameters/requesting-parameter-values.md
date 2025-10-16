@@ -1,8 +1,3 @@
----
-title: Requesting Parameter Values
-author: Natalia Kazakova
-legacyId: 16624
----
 # Requesting Parameter Values
 The Dashboard Viewer provides a built-in **Dashboard Parameters** dialog, which allows you to change dashboard parameter values. 
 
