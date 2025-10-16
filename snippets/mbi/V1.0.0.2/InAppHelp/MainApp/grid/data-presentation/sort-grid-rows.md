@@ -34,7 +34,7 @@ To sort records by a card field's values and replace existing sort conditions th
 1. Hover over the target card field within any card. The sort (![EU_XtraGrid_LayoutView_SortButton_Icon](../../../MainApp/images/img7563.png)) and filter buttons will appear.
 	
 	![EU_XtraGrid_LayoutView_FilterSortButtons](../../../MainApp/images/img7500.png)
-2. Click the sort button until its image changes to a black arrow (![EU_XtraGrid_LayoutView_Sort_NonEmptyAscending](../../../MainApp/images/img7564.png) or ![EU_XtraGrid_LayoutView_Sort_NonEmptyDescending](../../../images/img7565.png)). These images indicate ascending and descending sort orders respectively.
+2. Click the sort button until its image changes to a black arrow (![EU_XtraGrid_LayoutView_Sort_NonEmptyAscending](../../../MainApp/images/img7564.png) or ![EU_XtraGrid_LayoutView_Sort_NonEmptyDescending](../../../MainApp/images/img7565.png)). These images indicate ascending and descending sort orders respectively.
 
 To sort records by a card field's values while preserving existing sort conditions:
 1. Hover over the target card field within any card. The sort and filter buttons will appear.
