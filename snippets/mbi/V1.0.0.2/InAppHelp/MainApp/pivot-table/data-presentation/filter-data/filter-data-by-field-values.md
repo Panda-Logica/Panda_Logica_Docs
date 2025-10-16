@@ -1,8 +1,3 @@
----
-title: Filter Data by Field Values
-author: Natalia Kazakova
-legacyId: 11137
----
 # Filter Data by Field Values
 Filter Popup Windows allow you to configure and apply simple filtering conditions by selecting which values you wish to view, and which you do not.
 
