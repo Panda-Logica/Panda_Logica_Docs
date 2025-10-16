@@ -6,8 +6,8 @@ This section describes the capabilities provided by the Grid control, which repr
 &nbsp;
 
 **Data Editing**
-* [Edit Grid Cells](grid/data-editing/edit-grid-cells.md)
-* [Add and Delete Grid Records](grid/data-editing/add-and-delete-grid-records.md)
+* [Edit Grid Cells](data-editing/edit-grid-cells.md)
+* [Add and Delete Grid Records](data-editing/add-and-delete-grid-records.md)
 
 &nbsp;
 
