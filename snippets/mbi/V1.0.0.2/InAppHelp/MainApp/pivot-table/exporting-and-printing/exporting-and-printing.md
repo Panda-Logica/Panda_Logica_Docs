@@ -1,7 +1,3 @@
----
-title: Exporting and Printing
-author: Margarita Zakhodyaeva
----
 # Exporting and Printing
 
 The Pivot Grid control allows its data to be printed and exported.
@@ -10,7 +6,7 @@ The Pivot Grid control allows its data to be printed and exported.
 
 The [Pivot Grid](../../pivot-table.md) control allows you to export Pivot Grid data to a file or stream in various formats - HTML, MHT, PDF, RTF, TXT, CSV, XLS or XLSX. When you export, you copy data from a pivot grid into a new file formatted for use in another application. 
 
- ![exporting](../../../images/exporting.png)
+ ![exporting](../../../MainApp/images/exporting.png)
 
  ### Export Modes
 
@@ -25,7 +21,7 @@ Data exported using other formats (PDF, RTF, TXT, etc.) is always exported in th
 
 Data-aware is the default export mode for XLS and XLSX formats, and is optimized for subsequent analysis of pivot grid data within Microsoft Excel.
 
-![data-aware-export](../../../images/data-aware-export.png)
+![data-aware-export](../../../MainApp/images/data-aware-export.png)
 
 The following data shaping options, which are applied within the pivot grid control, are retained in the output XLS-XLSX documents.
 
@@ -38,5 +34,5 @@ The following data shaping options, which are applied within the pivot grid cont
 
 The Pivot Grid Control allows to print its data by the [Print Preview](../../print-preview/print-preview-for-winforms.md) form.
 
- ![printing](../../../images/printing.png)
+ ![printing](../../../MainApp/images/printing.png)
 
