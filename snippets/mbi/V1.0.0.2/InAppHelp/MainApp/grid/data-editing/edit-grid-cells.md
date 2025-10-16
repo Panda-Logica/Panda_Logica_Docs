@@ -18,7 +18,7 @@ Do one of the following:
 * Press ENTER.
 * Click the End Edit button within the Navigator control:
 	
-	![EU_XtraGrid_Navigator_EndEditButton](../../../images/img7455.png)
+	![EU_XtraGrid_Navigator_EndEditButton](../../../MainApp/images/img7455.png)
 * Click any other grid cell.
 * Focus any other control.
 
@@ -29,14 +29,14 @@ To discard changes made in all cells in a row/card, do one of the following:.
 * Press ESC twice.
 * Click the Cancel Edit button within the Navigator control:
 	
-	![EU_XtraGrid_Navigator_CancelEditButton](../../../images/img7454.png)
+	![EU_XtraGrid_Navigator_CancelEditButton](../../../MainApp/images/img7454.png)
 
 ## Open Cell Editor's Dropdown
 Do one of the following:
 * Press ALT+DOWN ARROW or F4.
 * Click the editor's dropdown button:
 	
-	![EU_XtraEditors_DropDownEdit_DropDownButton](../../../images/img7457.png)
+	![EU_XtraEditors_DropDownEdit_DropDownButton](../../../MainApp/images/img7457.png)
 
 ## Close Cell Editor's Dropdown
 For all editors providing a dropdown, you can close the dropdown by pressing ALT+DOWN ARROW. 
@@ -64,4 +64,4 @@ Note: this feature is not applicable to all editors.
 
 To copy, cut, paste, load and save images in image editors, right click the image and select the required command via the context menu:
 
-![EU_XtraEditors_ImageEdit_Menu](../../../images/img7456.png)
+![EU_XtraEditors_ImageEdit_Menu](../../../MainApp/images/img7456.png)
