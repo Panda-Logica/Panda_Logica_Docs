@@ -1,8 +1,3 @@
----
-title: Data Presentation
-author: Natalia Kazakova
-legacyId: 9665
----
 # Data Presentation
 This section describes how you can customize data presentation in Pivot Tables.
 
