@@ -1,8 +1,3 @@
----
-title: Filter Data by Cell Values
-author: Natalia Kazakova
-legacyId: 11951
----
 # Filter Data by Cell Values
 The Pivot Table allows you to filter data by specifying a range of cell values that should be displayed. Values that do not fall into this range will be hidden.
 
