@@ -1,8 +1,3 @@
----
-title: Edit Grid Cells
-author: Alexey Zolotarev
-legacyId: 4567
----
 # Edit Grid Cells
 ## Activate Cell Editor
 Do one of the following:
@@ -11,7 +6,7 @@ Do one of the following:
 * Focus a cell and press any alpha-numeric key. The editor will be invoked and its contents will be replaced with the pressed character.
 * Focus a cell and click the Navigator control's Edit button:
 	
-	![EU_XtraGrid_Navigator_EditButton](../../../images/img7453.png)
+	![EU_XtraGrid_Navigator_EditButton](../../../MainApp/images/img7453.png)
 
 If a cell editor provides a dropdown, you can activate the editor and open its dropdown by pressing ALT+DOWN ARROW or F4.
 
