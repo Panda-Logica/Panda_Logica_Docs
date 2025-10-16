@@ -1,8 +1,3 @@
----
-title: Customizing a Color Scheme
-author: Natalia Kazakova
-legacyId: 17945
----
 # Customizing a Color Scheme
 The Dashboard Designer provides the capability to edit colors contained in [global and local color schemes](coloring-concepts.md). You can select the required color from the default dashboard palette or specify a custom color.
 * [Invoke a Color Scheme Dialog](#invoke-a-color-scheme-dialog)
