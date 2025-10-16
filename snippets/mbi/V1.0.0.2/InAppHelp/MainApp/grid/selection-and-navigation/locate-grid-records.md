@@ -1,8 +1,3 @@
----
-title: Locate Grid Records
-author: Alexey Zolotarev
-legacyId: 4577
----
 # Locate Grid Records
 In Grid Views, you can locate a data row by typing the initial characters of the values contained in this row.
 
@@ -16,4 +11,4 @@ To proceed with the search in the backward direction, press CTRL+UP ARROW.
 
 To erase the previously typed characters in the search string, press BACKSPACE.
 
-![IncrementalSearch_anim.gif](../../../images/img2847.gif)
+![IncrementalSearch_anim.gif](../../../MainApp/images/img2847.gif)
