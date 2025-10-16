@@ -1,8 +1,3 @@
----
-title: Hide Pivot Table Fields
-author: Natalia Kazakova
-legacyId: 4653
----
 # Hide Pivot Table Fields
 This section describes the Pivot Table capabilities to hide fields.
 
