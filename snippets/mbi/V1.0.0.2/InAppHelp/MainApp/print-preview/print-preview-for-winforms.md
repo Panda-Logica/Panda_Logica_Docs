@@ -6,7 +6,7 @@ legacyId: 4847
 # Print Preview for WinForms
 This section describes the capabilities provided by the Print Preview form. 
 
-![Preview_Main](../../images/img9129.png)
+![Preview_Main](../../MainApp/images/img9129.png)
 
 &nbsp;
 
