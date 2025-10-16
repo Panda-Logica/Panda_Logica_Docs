@@ -1,12 +1,7 @@
----
-title: Pivot Table
-author: Natalia Kazakova
-legacyId: 4846
----
 # Pivot Table
 This section describes the capabilities provided by the Pivot Table, which represents data in a cross-tabulated form.
 
-![EndUser_Win_PivotGrid](../images/img9062.png)
+![EndUser_Win_PivotGrid](../MainApp/images/img9062.png)
 
 &nbsp;
 
