@@ -1,8 +1,3 @@
----
-title: Field List Overview
-author: Natalia Kazakova
-legacyId: 9661
----
 # Field List Overview
 Pivot Table provides a Field List form used to reorder and hide fields, sort and filter data, etc. For more information on how to invoke a Field List, see [Invoke a Field List](field-list/invoke-a-field-list.md).
 
@@ -13,7 +8,7 @@ Depending on Pivot Table settings made by your application vendor, Pivot Table c
 ## Simple Field List
 The following picture shows a simple Field List.
 
-![EU_XtraPivotGrid_FieldListSimpleOverview](../../images/img13532.png)
+![EU_XtraPivotGrid_FieldListSimpleOverview](../../MainApp/images/img13532.png)
 
 A simple Field List contains the following visual elements:
 * **Hidden Fields Section** - contains headers of fields hidden from Pivot Table. Use it to display hidden fields.
@@ -29,7 +24,7 @@ For more information on operations available in a simple Field List, refer to th
 ## Advanced Field List
 The following picture shows an advanced Field List.
 
-![EU_XtraPivotGrid_FieldListExcelOverview](../../images/img13533.png)
+![EU_XtraPivotGrid_FieldListExcelOverview](../../MainApp/images/img13533.png)
 
 An advanced Field List contains the following visual elements:
 * **Hidden Fields Section** - contains headers of fields hidden from Pivot Table. Use it to display hidden fields.
