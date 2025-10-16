@@ -1,8 +1,3 @@
----
-title: Add Empty Regions, Separators, Splitters and Labels
-author: Alexey Zolotarev
-legacyId: 4669
----
 # Add Empty Regions, Separators, Splitters and Labels
 To perform layout customization, first invoke [Customization Mode](start-layout-customization.md). After customization has been completed, [exit](finish-layout-customization.md) customization mode.
 
@@ -11,7 +6,7 @@ Empty regions enable greater control over element layout. They can be used, for 
 * Drag the **Empty Space Item** from the Customization form and drop at the required position on the form.
 * Right-click the Layout Control and select **Create EmptySpace Item** from the context menu:
 	
-	![EU_XtraLayout_LayoutControl_Item_ContextMenu](../../../images/img7640.png)
+	![EU_XtraLayout_LayoutControl_Item_ContextMenu](../../../MainApp/images/img7640.png)
 	
 	A new empty region will be added at the bottom of the Layout Control. Then, drag this item to the required position.
 
