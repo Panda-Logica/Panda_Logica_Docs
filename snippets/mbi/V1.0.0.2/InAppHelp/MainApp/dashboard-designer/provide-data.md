@@ -1,8 +1,3 @@
----
-title: Provide Data
-author: Natalia Kazakova
-legacyId: 15761
----
 # Provide Data
 The topics in this section describe how to provide data to be visualized in the dashboard.
 

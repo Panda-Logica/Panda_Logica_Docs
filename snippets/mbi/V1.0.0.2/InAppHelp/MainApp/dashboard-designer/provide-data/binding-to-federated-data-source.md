@@ -1,8 +1,3 @@
----
-title: Binding to Federated Data Source
-author: Margarita Zakhodyaeva
----
-
 # Binding to Federated Data Source
 
 You can create a federated data source if a dashboard contains at least one data source. Create a federated query where you specify how to federate existing data sources.

@@ -1,8 +1,3 @@
----
-title: Choropleth Map
-author: Natalia Kazakova
-legacyId: 16605
----
 # Choropleth Map
 The topics in this section describe the features available in the **Choropleth Map** dashboard item.
 

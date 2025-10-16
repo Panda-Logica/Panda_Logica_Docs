@@ -1,8 +1,3 @@
----
-title: Dashboard Item Settings
-author: Natalia Kazakova
-legacyId: 16538
----
 # Dashboard Item Settings
 DevExpress Dashboard provides a number of visualization elements designed to present visual or textual information in a dashboard - **dashboard items**.
 

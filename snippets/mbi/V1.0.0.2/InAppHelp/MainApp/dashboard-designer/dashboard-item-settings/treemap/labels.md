@@ -1,8 +1,3 @@
----
-title: Labels
-author: Natalia Kazakova
-legacyId: 15594
----
 # Labels
 The Treemap displays **labels** that contain descriptions for tiles and [groups](grouping.md), and provide **tooltips** with additional information.
 

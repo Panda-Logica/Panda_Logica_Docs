@@ -1,7 +1,3 @@
----
-title: Trend Indicators
----
-
 The Dashboard Designer allows you to display trend indicators in Chart dashboard items. 
 
 The following indicator types are available:

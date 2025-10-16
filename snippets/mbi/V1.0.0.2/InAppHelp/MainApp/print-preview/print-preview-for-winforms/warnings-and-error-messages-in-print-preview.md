@@ -1,8 +1,3 @@
----
-title: Warnings and Error Messages in Print Preview
-author: Anna Gubareva
-legacyId: 4541
----
 # Warnings and Error Messages in Print Preview
 ## Warnings
 * **One or more margins are set outside the printable area of the page.**

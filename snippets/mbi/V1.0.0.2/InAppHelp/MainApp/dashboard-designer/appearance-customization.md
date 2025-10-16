@@ -1,8 +1,3 @@
----
-title: Appearance Customization
-author: Natalia Kazakova
-legacyId: 16795
----
 # Appearance Customization
 The topics in this section describe how to customize the appearance of a dashboard or any of its elements using conditional formatting and coloring.
 

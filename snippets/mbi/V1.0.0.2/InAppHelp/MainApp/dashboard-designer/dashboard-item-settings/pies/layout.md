@@ -1,8 +1,3 @@
----
-title: Layout
-author: Natalia Kazakova
-legacyId: 16582
----
 # Layout
 The **Pie** dashboard item allows you to specify the number of columns or rows in which individual diagrams are arranged.
 

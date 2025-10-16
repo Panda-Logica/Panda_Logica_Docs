@@ -1,8 +1,3 @@
----
-title: Column Type Overview
-author: Natalia Kazakova
-legacyId: 16564
----
 # Column Type Overview
 The **Grid** dashboard item supports four types of columns.
 * [Dimension Column](dimension-column.md)

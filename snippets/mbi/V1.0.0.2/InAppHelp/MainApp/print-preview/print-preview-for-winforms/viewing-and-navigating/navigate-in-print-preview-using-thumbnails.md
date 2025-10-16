@@ -1,8 +1,3 @@
----
-title: Navigate in Print Preview Using Thumbnails
-author: Eugeniy Burmistrov
-legacyId: 114542
----
 # Navigate in Print Preview Using Thumbnails
 You can use thumbnails to quickly navigate between document pages.
 

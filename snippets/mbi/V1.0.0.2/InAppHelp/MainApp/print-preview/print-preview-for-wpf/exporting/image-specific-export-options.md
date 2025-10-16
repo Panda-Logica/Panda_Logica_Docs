@@ -1,8 +1,3 @@
----
-title: Image-Specific Export Options
-author: Anna Gubareva
-legacyId: 116643
----
 # Image-Specific Export Options
 When [exporting a document](exporting.md), you can define the following Image-specific exporting options.
 

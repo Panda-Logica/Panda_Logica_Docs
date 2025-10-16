@@ -1,8 +1,3 @@
----
-title: Average
-author: Natalia Kazakova
-legacyId: 114187
----
 # Average
 The **Average** format conditions allow you to highlight values above or below an average value.
 

@@ -1,8 +1,3 @@
----
-title: Coloring
-author: Natalia Kazakova
-legacyId: 16890
----
 # Coloring
 
 The Scatter Chart dashboard item does not paint its arguments in **Default** mode.

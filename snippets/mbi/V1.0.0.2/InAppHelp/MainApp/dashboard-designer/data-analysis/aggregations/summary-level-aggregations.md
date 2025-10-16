@@ -1,8 +1,3 @@
----
-title: Summary Level Aggregations
-author: Natalia Kazakova
-legacyId: 116588
----
 # Summary Level Aggregations
 The Dashboard Designer aggregates data when you construct a [calculated field expression](../../work-with-data/creating-calculated-fields.md). This allows you to evaluate calculated fields on a summary level.
 

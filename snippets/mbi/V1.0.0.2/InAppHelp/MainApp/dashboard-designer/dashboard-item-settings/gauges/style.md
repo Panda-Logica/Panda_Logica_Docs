@@ -1,8 +1,3 @@
----
-title: Style
-author: Natalia Kazakova
-legacyId: 16601
----
 # Style
 The **Gauge** dashboard item allows you to select the gauge type.
 

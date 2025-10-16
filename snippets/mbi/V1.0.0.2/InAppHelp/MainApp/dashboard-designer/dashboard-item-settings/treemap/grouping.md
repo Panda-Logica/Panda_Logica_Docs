@@ -1,8 +1,3 @@
----
-title: Grouping
-author: Natalia Kazakova
-legacyId: 15458
----
 # Grouping
 If you use several [arguments](providing-data.md) in the Treemap, you can group tiles corresponding to child values by parent values. For instance, the following Treemap dashboard item displays combinations of categories and sub-categories.
 

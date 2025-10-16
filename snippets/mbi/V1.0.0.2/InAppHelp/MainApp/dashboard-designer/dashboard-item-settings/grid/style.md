@@ -1,8 +1,3 @@
----
-title: Style
-author: Natalia Kazakova
-legacyId: 17928
----
 # Style
 The Grid dashboard item allows you to specify various style settings.
 

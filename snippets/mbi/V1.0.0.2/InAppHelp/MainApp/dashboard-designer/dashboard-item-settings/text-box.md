@@ -1,8 +1,3 @@
----
-title: Text Box
-author: Natalia Kazakova
-legacyId: 16622
----
 # Text Box
 Use the **Text Box** dashboard item to display rich text within a dashboard.
 

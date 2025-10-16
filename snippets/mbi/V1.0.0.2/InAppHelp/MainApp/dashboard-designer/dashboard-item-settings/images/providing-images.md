@@ -1,8 +1,3 @@
----
-title: Providing Images
-author: Natalia Kazakova
-legacyId: 116559
----
 # Providing Images
 ## Providing Static Images
 To load an image to a dashboard item, use the **Load Image** and **Import Image** buttons in the Ribbon, or commands in the context menu (**Load Image...** and **Import Image...**, respectively).

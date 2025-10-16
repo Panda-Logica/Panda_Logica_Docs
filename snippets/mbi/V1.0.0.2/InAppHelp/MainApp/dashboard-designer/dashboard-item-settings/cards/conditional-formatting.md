@@ -1,8 +1,3 @@
----
-title: Conditional Formatting
-author: Margarita Zakhodyaeva
----
-
 # Conditional Formatting
 
 For a Card dashboard item, you can apply conditional formatting to the card's visual elements (e.g., Title, Subtitle, various values) and change the card's background.

@@ -1,8 +1,3 @@
----
-title: RTF-Specific Export Options
-author: Anna Gubareva
-legacyId: 116638
----
 # RTF-Specific Export Options
 When [exporting a document](exporting.md), you can define the following RTF-specific exporting options.
 

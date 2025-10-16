@@ -1,8 +1,3 @@
----
-title: HTML-Specific Export Options
-author: Anna Gubareva
-legacyId: 116636
----
 # HTML-Specific Export Options
 When [exporting a document](exporting.md), you can define the following HTML-specific export options.
 

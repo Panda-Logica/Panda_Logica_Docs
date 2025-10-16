@@ -1,8 +1,3 @@
----
-title: Exporting
-author: Anna Gubareva
-legacyId: 116497
----
 # Exporting
 There are two options available for exporting a document to one of the supported third-party formats.
 * [Export Document to a File on Disk](#export)

@@ -1,8 +1,3 @@
----
-title: Intermediate Level Aggregations
-author: Natalia Kazakova
-legacyId: 116589
----
 # Intermediate Level Aggregations
 The Dashboard can aggregate and summarize data on different levels.
 * The [Query Builder](../../work-with-data/using-the-query-builder.md) allows you to prepare an underlying data source before analyzing data. You can apply grouping, sorting, summarization and other data shaping operations during data selection.

@@ -1,8 +1,3 @@
----
-title: Formatting
-author: Natalia Kazakova
-legacyId: 118816
----
 # Formatting
 The Card dashboard item formats the [actual and target](providing-data.md) values displayed within cards using [format settings](../../data-shaping/formatting-data.md) specified for data items. Click the options buttons (the ![DataItemsArea_OptionsButton](../../../../images/img20167.png) icon) displayed next to the data item container in the **Cards** section to change format settings for other values.
 

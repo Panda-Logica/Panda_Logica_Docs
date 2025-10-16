@@ -1,8 +1,3 @@
----
-title: Delta Column
-author: Natalia Kazakova
-legacyId: 16567
----
 # Delta Column
 A **delta column** calculates summaries against two measures, and displays the difference between these summaries. This difference can be indicated with a numeric value displayed within the delta element and an additional delta indication.
 

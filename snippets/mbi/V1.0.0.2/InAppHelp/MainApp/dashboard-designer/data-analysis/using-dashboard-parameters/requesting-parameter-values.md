@@ -1,9 +1,3 @@
----
-title: Specify Dashboard Parameter Values
-
-author: Natalia Kazakova
-legacyId: 16524
----
 # Specify Dashboard Parameter Values
 
 The Dashboard Designer includes a built-in **Dashboard Parameters** dialog, which allows users to change dashboard parameter values. This dialog is created automatically depending on the [parameter settings](creating-parameters.md#parameter-settings). Set the [Visible](creating-parameters.md#visible) property to `true` to display the parameter in the **Dashboard Parameters** dialog.

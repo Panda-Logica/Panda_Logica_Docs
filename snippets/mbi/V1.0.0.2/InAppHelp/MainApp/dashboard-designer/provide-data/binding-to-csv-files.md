@@ -1,8 +1,3 @@
----
-title: Binding to CSV Files
-author: Natalia Kazakova
-legacyId: 115241
----
 # Binding to CSV Files
 The Dashboard Designer allows you to select data from CSV files.
 

@@ -1,8 +1,3 @@
----
-title: PDF-Specific Export Options
-author: Anna Gubareva
-legacyId: 4328
----
 # PDF-Specific Export Options
 When [exporting a document](exporting-from-print-preview.md), you can define PDF-specific exporting options using the following dialog.
 

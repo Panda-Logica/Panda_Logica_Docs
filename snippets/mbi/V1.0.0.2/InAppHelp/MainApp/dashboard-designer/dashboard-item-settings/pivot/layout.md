@@ -1,8 +1,3 @@
----
-title: Layout
-author: Natalia Kazakova
-legacyId: 16604
----
 # Layout
 This topic describes how to control the Pivot dashboard item layout, the visibility of totals and grand totals, etc.
 * [Layout Type](#layouttype)

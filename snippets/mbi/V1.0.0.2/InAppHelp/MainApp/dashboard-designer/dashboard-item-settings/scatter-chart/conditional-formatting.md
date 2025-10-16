@@ -1,7 +1,3 @@
----
-title: Conditional Formatting
-author: Margarita Zakhodyaeva
----
 # Conditional Formatting
 
 Use conditional formatting to highlight points in a Scatter Chart dashboard item.

@@ -1,8 +1,3 @@
----
-title: Delta
-author: Natalia Kazakova
-legacyId: 16587
----
 # Delta
 Cards allow you to visualize the difference between the [actual and target](providing-data.md) values using special delta values and a delta indicator. If the default layout is used ([Stretched layout type](layout.md)), the card displays the following delta values/elements:
 

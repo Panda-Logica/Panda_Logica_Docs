@@ -1,8 +1,3 @@
----
-title: Map Navigation
-author: Natalia Kazakova
-legacyId: 17930
----
 # Map Navigation
 The Choropleth Map dashboard item allows you to perform navigation actions such as zooming and scrolling.
 

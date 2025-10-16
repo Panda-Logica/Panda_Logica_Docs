@@ -1,7 +1,3 @@
----
-title: Data Inspector
-author: Margarita Zakhodyaeva
----
 # Data Inspector
 **Data Inspector** is a dialog window that displays raw and aggregated data. 
 

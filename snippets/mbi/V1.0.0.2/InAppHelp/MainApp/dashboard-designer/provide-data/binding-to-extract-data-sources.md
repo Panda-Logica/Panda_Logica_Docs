@@ -1,8 +1,3 @@
----
-title: Binding to Extract Data Sources
-author: Natalia Kazakova
-legacyId: 116601
----
 # Binding to Extract Data Sources
 The Dashboard Designer allows you to create a _data extract_ that is a compressed snapshot of data obtained from the existing data source. This data is saved to a local file and can be updated from the original data source at any time.
 

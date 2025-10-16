@@ -1,8 +1,3 @@
----
-title: Providing Maps
-author: Natalia Kazakova
-legacyId: 16606
----
 # Providing Maps
 This document explains how to use the default **DevExpress Dashboard maps**, or provide custom maps.
 

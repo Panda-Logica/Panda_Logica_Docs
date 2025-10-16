@@ -1,8 +1,3 @@
----
-title: Weighted Series
-author: Natalia Kazakova
-legacyId: 16547
----
 # Weighted Series
 Weighted series allow you to visualize data in three dimensions.
 

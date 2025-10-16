@@ -1,8 +1,3 @@
----
-title: Data Shaping
-author: Natalia Kazakova
-legacyId: 16528
----
 # Data Shaping
 This section describes how to perform various data shaping operations (such as grouping, sorting and filtering) in the **Dashboard Designer**.
 

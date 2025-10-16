@@ -1,8 +1,3 @@
----
-title: MHT-Specific Export Options
-author: Anna Gubareva
-legacyId: 4330
----
 # MHT-Specific Export Options
 When [exporting a document](exporting-from-print-preview.md), you can define MHT-specific exporting options using the following dialog.
 

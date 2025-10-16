@@ -1,8 +1,3 @@
----
-title: XLSX-Specific Export Options
-author: Anna Gubareva
-legacyId: 116640
----
 # XLSX-Specific Export Options
 When [exporting a document](exporting.md), you can define the following XLSX-specific exporting options.
 

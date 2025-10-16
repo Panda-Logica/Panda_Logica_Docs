@@ -1,8 +1,3 @@
----
-title: Pass Query Parameters
-author: Natalia Kazakova
-legacyId: 15763
----
 # Pass Query Parameters
 The [Query Builder](using-the-query-builder.md) allows you to add query parameters when creating a filter criteria. To specify settings of an added query parameter, click **Next** in the [Query Editor](using-the-query-editor.md) dialog.
 

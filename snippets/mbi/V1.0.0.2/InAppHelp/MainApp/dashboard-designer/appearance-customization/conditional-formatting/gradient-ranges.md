@@ -1,8 +1,3 @@
----
-title: Gradient Ranges
-author: Natalia Kazakova
-legacyId: 114190
----
 # Gradient Ranges
 Gradient Ranges allow you to use predefined color gradients to apply conditional formatting to different ranges of values. You can also use specific colors to generate custom gradients.
 

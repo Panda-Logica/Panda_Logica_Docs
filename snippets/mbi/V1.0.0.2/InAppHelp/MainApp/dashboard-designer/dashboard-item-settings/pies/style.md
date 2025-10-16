@@ -1,8 +1,3 @@
----
-title: Style
-author: Natalia Kazakova
-legacyId: 16584
----
 # Style
 The **Pie** dashboard item allows you to select whether diagrams should be painted as **pies** or **donuts**.
 

@@ -1,8 +1,3 @@
----
-title: Area Series
-author: Natalia Kazakova
-legacyId: 16545
----
 # Area Series
 Area series connect numeric data points by different types of line segments and fill the area between the line and X-axis/other series.
 

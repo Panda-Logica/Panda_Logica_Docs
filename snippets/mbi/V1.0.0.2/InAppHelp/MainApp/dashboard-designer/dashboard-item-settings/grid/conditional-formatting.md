@@ -1,8 +1,3 @@
----
-title: Conditional Formatting
-author: Natalia Kazakova
-legacyId: 114224
----
 # Conditional Formatting
 A Grid dashboard item applies conditional formatting to data items that supply data to the [dimension](columns/dimension-column.md) and [measure](columns/measure-column.md) column types. 
 

@@ -1,7 +1,3 @@
----
-title: Binding to Object Data Sources
-author: Margarita Zakhodyaeva
----
 # Binding to Object Data Sources
 
 To bind a dashboard to an object data source, do the following.

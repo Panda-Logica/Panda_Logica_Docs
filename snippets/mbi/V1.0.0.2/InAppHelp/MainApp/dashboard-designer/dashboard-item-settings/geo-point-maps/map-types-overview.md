@@ -1,8 +1,3 @@
----
-title: Map Types Overview
-author: Natalia Kazakova
-legacyId: 17255
----
 # Map Types Overview
 The **Dashboard Designer** allows you to create three types of **Geo Point** maps.
 * The **[Geo Point Map](geo-point-map.md)** dashboard item allows you to place callouts on the map using geographical coordinates.

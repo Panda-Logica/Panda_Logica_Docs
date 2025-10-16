@@ -1,8 +1,3 @@
----
-title: Coloring
-author: Natalia Kazakova
-legacyId: 17943
----
 # Coloring
 The Dashboard Designer allows you to paint dashboard item elements such as chart series points or pie segments.
 

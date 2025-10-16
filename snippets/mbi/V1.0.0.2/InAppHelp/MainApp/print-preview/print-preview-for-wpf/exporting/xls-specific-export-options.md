@@ -1,8 +1,3 @@
----
-title: XLS-Specific Export Options
-author: Anna Gubareva
-legacyId: 116639
----
 # XLS-Specific Export Options
 When [exporting a document](exporting.md), you can define the following XLS-specific exporting options.
 

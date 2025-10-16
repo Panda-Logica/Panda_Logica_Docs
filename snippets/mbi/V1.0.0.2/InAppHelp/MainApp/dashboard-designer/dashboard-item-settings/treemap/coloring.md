@@ -1,8 +1,3 @@
----
-title: Coloring
-author: Natalia Kazakova
-legacyId: 15564
----
 # Coloring
 In **Default** color mode, the Treemap dashboard item colors its tiles in the following ways:
 

@@ -1,8 +1,3 @@
----
-title: Delta
-author: Natalia Kazakova
-legacyId: 16595
----
 # Delta
 Gauges allow you to display the difference between the _actual_ and _target_ values of a particular parameter. This difference is called **delta**.
 

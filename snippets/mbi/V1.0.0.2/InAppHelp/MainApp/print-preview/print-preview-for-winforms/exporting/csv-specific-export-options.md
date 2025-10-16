@@ -1,8 +1,3 @@
----
-title: CSV-Specific Export Options
-author: Anna Gubareva
-legacyId: 4333
----
 # CSV-Specific Export Options
 When [exporting a document](exporting-from-print-preview.md), you can define CSV-specific exporting options using the following dialog.
 

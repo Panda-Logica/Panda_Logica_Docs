@@ -1,8 +1,3 @@
----
-title: Formatting Data
-author: Natalia Kazakova
-legacyId: 16534
----
 # Formatting Data
 Dashboard allows you to customize various data format settings for numeric and date-time values.
 * [Formatting Numeric Values](#formatting-numeric-values)

@@ -1,8 +1,3 @@
----
-title: X-Axis
-author: Natalia Kazakova
-legacyId: 16557
----
 # X-Axis
 The **X-axis** is the axis of arguments.
 

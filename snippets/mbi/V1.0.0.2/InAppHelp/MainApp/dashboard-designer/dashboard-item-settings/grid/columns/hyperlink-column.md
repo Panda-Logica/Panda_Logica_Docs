@@ -1,7 +1,3 @@
----
-title: Hyperlink Column
-author: Natalia Kazakova
----
 # Hyperlink Column
 
 A _hyperlink_ column allows you to display hyperlinks in the Grid dashboard item.

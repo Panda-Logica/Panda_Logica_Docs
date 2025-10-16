@@ -1,7 +1,3 @@
----
-title: Cascading Parameters
-author: Polina Tuyreva
----
 # Cascading Parameters
 
 Create cascading parameters to filter a list of predefined parameter values based on another parameter's values. The following image illustrates cascading parameters where the **pProducts** parameter values are filtered by the selected category:

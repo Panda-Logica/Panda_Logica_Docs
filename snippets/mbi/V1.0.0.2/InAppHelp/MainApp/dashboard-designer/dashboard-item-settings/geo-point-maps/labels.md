@@ -1,8 +1,3 @@
----
-title: Labels
-author: Natalia Kazakova
-legacyId: 17937
----
 # Labels
 Geo Point maps provide the capability to display titles within map shapes and allows you to add supplementary content to the callout/bubble/pie tooltips.
 

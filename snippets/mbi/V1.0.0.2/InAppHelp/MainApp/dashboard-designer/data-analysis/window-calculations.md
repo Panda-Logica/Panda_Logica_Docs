@@ -1,8 +1,3 @@
----
-title: Window Calculations
-author: Natalia Kazakova
-legacyId: 116577
----
 # Window Calculations
 Window calculations provide the capability to apply specific computations to measure values and allow you to perform different analytical tasks such as to compute running totals, percentages of totals, differences, etc.
 

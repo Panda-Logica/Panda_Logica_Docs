@@ -1,8 +1,3 @@
----
-title: Series Overview
-author: Natalia Kazakova
-legacyId: 16542
----
 # Series Overview
 The Chart dashboard item supports a variety of series types - from simple bar and line charts to complex candle stick and bubble graphs.
 * [Bar Series](bar-series.md)

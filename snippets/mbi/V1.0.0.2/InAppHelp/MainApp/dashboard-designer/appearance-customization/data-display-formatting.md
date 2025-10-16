@@ -1,7 +1,3 @@
----
-title: Data Display Formatting
-author: Boris Zaitsev
----
 # Data Display Format
 
 The DevExpress Dashboard allows you to specify format settings for numeric and date-time values, as described in the [Formatting Data](../data-shaping/formatting-data.md) document. However, certain data labels and delta values can be formatted independently to give you more ways to improve data readability and optimize screen space usage.

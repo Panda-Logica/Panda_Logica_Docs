@@ -1,7 +1,3 @@
----
-title: Conditional Formatting
-author: Margarita Zakhodyaeva
----
 # Conditional Formatting
 
 Use conditional formatting to highlight chart elements such as [bars](series/bar-series.md), [lines](series/point-and-line-series.md), [areas](series/area-series.md), and [data points](series/point-and-line-series.md).

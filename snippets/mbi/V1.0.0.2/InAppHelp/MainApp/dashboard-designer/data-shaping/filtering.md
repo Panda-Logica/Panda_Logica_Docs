@@ -1,8 +1,3 @@
----
-title: Filtering
-author: Natalia Kazakova
-legacyId: 16532
----
 # Filtering
 The Dashboard Designer allows you to filter data in the dashboard items or apply filters to a specific measure. [Dimensions](../bind-dashboard-items-to-data/bind-dashboard-items-to-data.md) and [hidden dimensions](../bind-dashboard-items-to-data/hidden-data-items.md) are used to build filter criteria.
 

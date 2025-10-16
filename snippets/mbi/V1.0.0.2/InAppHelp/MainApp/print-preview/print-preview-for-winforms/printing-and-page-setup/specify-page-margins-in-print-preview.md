@@ -1,8 +1,3 @@
----
-title: Specify Page Margins in Print Preview
-author: Eugeniy Burmistrov
-legacyId: 4339
----
 # Specify Page Margins in Print Preview
 To set document page margins, do one of the following.
 * **Use the Page Setup dialog**

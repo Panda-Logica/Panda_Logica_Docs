@@ -1,7 +1,3 @@
----
-title: Binding to MongoDB
-author: Margarita Zakhodyaeva
----
 # Binding to MongoDB
 
 The WinForms Designer allows you to connect to MongoDB in the Data Source Wizard. 

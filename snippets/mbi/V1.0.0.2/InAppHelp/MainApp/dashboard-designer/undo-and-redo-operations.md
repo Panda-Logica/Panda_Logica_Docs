@@ -1,8 +1,3 @@
----
-title: Undo and Redo Operations
-author: Natalia Kazakova
-legacyId: 17926
----
 # Undo and Redo Operations
 The **Dashboard Designer** keeps track of all user actions, and allows you to undo or repeat them using the **Undo**/**Redo** buttons.
 

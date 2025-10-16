@@ -1,7 +1,3 @@
----
-title: Expression Constants, Operators, and Functions
-author: Boris Zaitsev
----
 # Expression Constants, Operators, and Functions
 
 The DevExpress Dashboard uses criteria language that you can use in various DevExpress products for building expressions. An expression is a string that evaluates some value. The criteria language is based on the the cross-platform library with some additions and subtractions specific for dashboards. This topic details basic and dashboard-specific constants, operators, and functions. 

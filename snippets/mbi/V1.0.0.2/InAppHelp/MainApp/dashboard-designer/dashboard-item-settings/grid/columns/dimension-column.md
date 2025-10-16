@@ -1,8 +1,3 @@
----
-title: Dimension Column
-author: Natalia Kazakova
-legacyId: 16565
----
 # Dimension Column
 The **dimension column** displays values from the bound data item "as is".
 

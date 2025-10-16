@@ -1,8 +1,3 @@
----
-title: Series
-author: Natalia Kazakova
-legacyId: 16541
----
 # Series
 This section describes how to select a desired series type in the overview topic, and lists the variety of available series types.
 

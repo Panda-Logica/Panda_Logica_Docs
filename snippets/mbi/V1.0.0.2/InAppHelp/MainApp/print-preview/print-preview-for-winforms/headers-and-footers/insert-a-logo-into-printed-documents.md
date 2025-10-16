@@ -1,8 +1,3 @@
----
-title: Insert a Logo into Printed Documents
-author: Eugeniy Burmistrov
-legacyId: 4311
----
 # Insert a Logo into Printed Documents
 To insert a logo into a document's header or footer, first [invoke the Header and Footer dialog](insert-page-header-and-page-footer-into-printed-documents.md).
 

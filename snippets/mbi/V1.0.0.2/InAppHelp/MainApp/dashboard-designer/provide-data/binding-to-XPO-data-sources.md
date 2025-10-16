@@ -1,7 +1,3 @@
----
-title: Binding to XPO Data Sources
-author: Margarita Zakhodyaeva
----
 # Binding to XPO Data Sources
 
 To connect to the XPO data source, perform the following steps.

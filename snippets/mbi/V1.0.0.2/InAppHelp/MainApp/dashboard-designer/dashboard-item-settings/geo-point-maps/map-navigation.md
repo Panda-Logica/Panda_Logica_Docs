@@ -1,8 +1,3 @@
----
-title: Map Navigation
-author: Natalia Kazakova
-legacyId: 17936
----
 # Map Navigation
 Geo Point maps allow you to perform navigation actions such as zooming and scrolling.
 

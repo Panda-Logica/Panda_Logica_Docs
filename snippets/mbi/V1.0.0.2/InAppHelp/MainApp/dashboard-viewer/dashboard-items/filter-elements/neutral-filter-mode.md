@@ -1,8 +1,3 @@
----
-title: Neutral Filter Mode
-author: Boris Zaitsev
----
-
 # Neutral Filter Mode
 
 The filter elements show all items selected by default, to indicate that no filtering is currently taking place. Starting from this state, users typically begin each filtering operation by deselecting **All**, before they select individual items.

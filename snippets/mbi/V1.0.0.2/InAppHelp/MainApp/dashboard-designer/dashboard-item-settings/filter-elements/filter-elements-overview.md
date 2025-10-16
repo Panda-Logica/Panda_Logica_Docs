@@ -1,8 +1,3 @@
----
-title: Filter Elements Overview
-author: Natalia Kazakova
-legacyId: 17939
----
 # Filter Elements Overview
 The **Dashboard Designer** allows you to create filter elements that used to filter other dashboard items.
 * [Combo Box](#combo-box)

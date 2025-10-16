@@ -1,8 +1,3 @@
----
-title: Clustering
-author: Natalia Kazakova
-legacyId: 17256
----
 # Clustering
 When a **Geo Point** map contains a large number of objects (callouts, bubbles or pies), showing each object individually on the map is not useful. The **Dashboard Designer** provides the capability to group neighboring map objects. This feature is called **Clustering**.
 

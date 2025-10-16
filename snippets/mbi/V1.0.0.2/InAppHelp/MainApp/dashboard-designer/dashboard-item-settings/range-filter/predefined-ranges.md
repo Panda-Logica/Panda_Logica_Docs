@@ -1,8 +1,3 @@
----
-title: Predefined Ranges
-author: Natalia Kazakova
-legacyId: 117399
----
 # Predefined Ranges
 The Range Filter dashboard item allows you to add a number of predefined date-time periods that can be used to perform a selection (for instance, _year-to-date_ or _quarter-to-date_).
 

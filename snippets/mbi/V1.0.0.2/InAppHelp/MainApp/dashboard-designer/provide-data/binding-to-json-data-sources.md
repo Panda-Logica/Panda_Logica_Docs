@@ -1,7 +1,3 @@
----
-title: Binding to JSON Data Sources
-author: Margarita Zakhodyaeva
----
 # Binding to JSON Data Sources
 
 The Dashboard Designer allows you to connect to the JSON data source that retrieves data from a Web-service endpoint, text file or a string in JSON format.

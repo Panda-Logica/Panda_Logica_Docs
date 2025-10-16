@@ -1,8 +1,3 @@
----
-title: Dashboard Layout
-author: Natalia Kazakova
-legacyId: 16518
----
 # Dashboard Layout
 
 This topic describes the features related to the dashboard layout in the WinForms Designer.

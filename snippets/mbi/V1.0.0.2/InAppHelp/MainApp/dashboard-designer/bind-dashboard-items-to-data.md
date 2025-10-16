@@ -1,8 +1,3 @@
----
-title: Bind Dashboard Items to Data
-author: Natalia Kazakova
-legacyId: 15767
----
 # Bind Dashboard Items to Data
 This section consists of the following topics.
 * [Bind Dashboard Items to Data](bind-dashboard-items-to-data/bind-dashboard-items-to-data.md)

@@ -1,8 +1,3 @@
----
-title: Series
-author: Natalia Kazakova
-legacyId: 16620
----
 # Series
 The **Range Filter** dashboard item supports various **Line** and **Area** series types.
 

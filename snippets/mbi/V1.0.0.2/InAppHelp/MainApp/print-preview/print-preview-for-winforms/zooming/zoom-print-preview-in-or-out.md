@@ -1,8 +1,3 @@
----
-title: Zoom Print Preview In or Out
-author: Eugeniy Burmistrov
-legacyId: 4315
----
 # Zoom Print Preview In or Out
 ## Zoom In and Out of a Document
 * To zoom in a document, click the **Zoom In** ![previewButtonZoomIn](../../../../images/img7268.png) button on the toolbar, or press CTRL+PLUS SIGN.

@@ -1,8 +1,3 @@
----
-title: Coloring
-author: Natalia Kazakova
-legacyId: 16789
----
 # Coloring
 In **Default** color mode, the Pie Map dashboard item colors its segments in the following way:
 

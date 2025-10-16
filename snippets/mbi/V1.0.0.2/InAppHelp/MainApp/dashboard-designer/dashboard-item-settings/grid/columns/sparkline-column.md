@@ -1,8 +1,3 @@
----
-title: Sparkline Column
-author: Natalia Kazakova
-legacyId: 16568
----
 # Sparkline Column
 A **sparkline column** visualizes the variation in summary values over time.
 

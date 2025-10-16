@@ -1,8 +1,3 @@
----
-title: Conditional Formatting
-author: Natalia Kazakova
-legacyId: 114225
----
 # Conditional Formatting
 
 A Pivot dashboard item applies conditional formatting to cell values. You can calculate a format rule by measures placed in the **Values** section and dimensions placed in the **Columns** or **Rows** section.

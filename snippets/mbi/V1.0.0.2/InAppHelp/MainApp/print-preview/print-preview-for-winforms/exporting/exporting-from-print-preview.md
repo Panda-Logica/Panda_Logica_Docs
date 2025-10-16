@@ -1,8 +1,3 @@
----
-title: Exporting from Print Preview
-author: Eugeniy Burmistrov
-legacyId: 5540
----
 # Exporting from Print Preview
 There are two options available for a document being exported to.
 * [Export Document to a File on Disk](#disk)

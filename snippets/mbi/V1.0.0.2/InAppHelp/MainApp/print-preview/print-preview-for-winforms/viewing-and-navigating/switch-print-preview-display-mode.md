@@ -1,8 +1,3 @@
----
-title: Switch Print Preview Display Mode
-author: Eugeniy Burmistrov
-legacyId: 4560
----
 # Switch Print Preview Display Mode
 ## Enable the Facing Layout View
 To enable the facing layout view, on the **View** menu, point to **Page Layout**, and then click **Facing**.

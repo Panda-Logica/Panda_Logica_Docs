@@ -1,8 +1,3 @@
----
-title: Manage SQL Queries
-author: Natalia Kazakova
-legacyId: 114168
----
 # Manage SQL Queries
 After you [connect](../provide-data/connecting-to-sql-databases.md) to the data store and select the required data, you can edit the resulting query/[stored procedure](stored-procedures.md) or add another query/stored procedure to the data source.
 

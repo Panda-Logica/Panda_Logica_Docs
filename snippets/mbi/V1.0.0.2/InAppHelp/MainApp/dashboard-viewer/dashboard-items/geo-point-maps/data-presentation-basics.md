@@ -1,8 +1,3 @@
----
-title: Data Presentation Basics
-author: Natalia Kazakova
-legacyId: 16681
----
 # Data Presentation Basics
 The **Dashboard** supports three types of **Geo Point** maps.
 * The **Geo Point Map** dashboard item allows you to place callouts on the map using geographical coordinates.

@@ -1,8 +1,3 @@
----
-title: Navigate Using Bookmarks
-author: Anna Gubareva
-legacyId: 116492
----
 # Navigate Using Bookmarks
 If a document contains bookmarks, you can use the **Document Map** panel for navigation purposes.
 

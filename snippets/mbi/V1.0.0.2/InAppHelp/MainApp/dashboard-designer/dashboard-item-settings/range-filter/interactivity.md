@@ -1,8 +1,3 @@
----
-title: Interactivity
-author: Natalia Kazakova
-legacyId: 18087
----
 # Interactivity
 This document describes the features that enable interaction between the **Range Filter** and other dashboard items. These features include **Master Filtering**.
 

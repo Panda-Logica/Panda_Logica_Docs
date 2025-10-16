@@ -1,8 +1,3 @@
----
-title: A Date Occurring
-author: Natalia Kazakova
-legacyId: 114397
----
 # A Date Occurring
 A Date Occurring format condition allows you to highlight date-time values that fall into a specified interval. Note that this format condition can be applied to dimensions with the continuous date-time group interval.
 

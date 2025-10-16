@@ -1,8 +1,3 @@
----
-title: Data Analysis
-author: Natalia Kazakova
-legacyId: 16805
----
 # Data Analysis
 This section describes how to perform advanced data analysis using the aggregate and window functions, dashboard parameters, etc.
 

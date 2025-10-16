@@ -1,8 +1,3 @@
----
-title: Y-Axis
-author: Natalia Kazakova
-legacyId: 16558
----
 # Y-Axis
 The **Y-axis** is the numerical axis of values.
 

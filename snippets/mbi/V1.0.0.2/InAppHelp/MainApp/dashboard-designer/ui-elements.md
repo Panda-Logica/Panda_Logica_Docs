@@ -1,8 +1,3 @@
----
-title: UI Elements
-author: Natalia Kazakova
-legacyId: 17251
----
 # UI Elements
 The topics in this section describe the main elements of a **Dashboard Designer** application.
 

@@ -1,8 +1,3 @@
----
-title: Top-Bottom
-author: Natalia Kazakova
-legacyId: 114186
----
 # Top-Bottom
 The **Top-Bottom** format conditions allow you to highlight a specific number of topmost/bottommost values. You can specify this number as an absolute or percent value.
 

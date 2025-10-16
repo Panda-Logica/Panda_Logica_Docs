@@ -1,8 +1,3 @@
----
-title: Conditional Formatting
-author: Natalia Kazakova
-legacyId: 114184
----
 # Conditional Formatting
 The Dashboard Designer control supports conditional formatting. You can apply a custom style to data elements that satisfy a certain condition for [Grid](../dashboard-item-settings/grid.md), [Pivot](../dashboard-item-settings/pivot.md), [Chart](../dashboard-item-settings/chart.md), [Scatter Chart](../dashboard-item-settings/scatter-chart.md) and [Card](../dashboard-item-settings/cards.md) items.
 

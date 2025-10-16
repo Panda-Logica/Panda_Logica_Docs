@@ -1,8 +1,3 @@
----
-title: Images
-author: Natalia Kazakova
-legacyId: 16621
----
 # Images
 The Dashboard Designer allows you to add images to a dashboard.
 

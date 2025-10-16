@@ -1,8 +1,3 @@
----
-title: Reference Dashboard Parameters
-author: Natalia Kazakova
-legacyId: 16523
----
 # Reference Dashboard Parameters in WinForms
 
 This topic describes how to reference a [dashboard parameter](creating-parameters.md) in [condition format expressions](#conditional-formatting), [calculated fields](#calculated-fields), and [window calculations](#window-calculations). You can also bind a dashboard parameter to a query parameter to filter the SQL data source dynamically.

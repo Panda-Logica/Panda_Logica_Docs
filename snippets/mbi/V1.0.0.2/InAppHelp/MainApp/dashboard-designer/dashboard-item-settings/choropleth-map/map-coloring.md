@@ -1,8 +1,3 @@
----
-title: Map Coloring
-author: Natalia Kazakova
-legacyId: 16608
----
 # Map Coloring
 The **Choropleth Map** dashboard item colors map shapes depending on the [data provided](providing-data.md).
 

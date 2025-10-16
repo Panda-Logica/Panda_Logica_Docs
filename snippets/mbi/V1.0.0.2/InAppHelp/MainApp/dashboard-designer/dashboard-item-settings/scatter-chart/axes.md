@@ -1,8 +1,3 @@
----
-title: Axes
-author: Natalia Kazakova
-legacyId: 115252
----
 # Axes
 Scatter Chart X and Y-axes are numerical axis of values. You can specify various axes settings to change visual data presentation.
 

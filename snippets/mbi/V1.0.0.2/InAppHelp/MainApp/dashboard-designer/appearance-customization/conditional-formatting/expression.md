@@ -1,8 +1,3 @@
----
-title: Expression
-author: Natalia Kazakova
-legacyId: 114398
----
 # Expression
 An Expression format condition allows you to use complex conditions to apply formatting.
 

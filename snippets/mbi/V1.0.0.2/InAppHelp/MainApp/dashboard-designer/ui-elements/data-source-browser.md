@@ -1,8 +1,3 @@
----
-title: Data Source Browser
-author: Natalia Kazakova
-legacyId: 17252
----
 # Data Source Browser
 The **Data Source Browser** allows you to navigate through dashboard data sources. It displays the data source structure and allows you to [bind dashboard items](../bind-dashboard-items-to-data/bind-dashboard-items-to-data.md) to the required data source fields using drag-and-drop operations. The Data Source Browser also enables you to manage [calculated fields](../work-with-data/creating-calculated-fields.md).
 

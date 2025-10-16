@@ -1,8 +1,3 @@
----
-title: Change Watermark and Background Settings in Print Preview
-author: Eugeniy Burmistrov
-legacyId: 4324
----
 # Change Watermark and Background Settings in Print Preview
 ## Invoke the Watermark Dialog
 To add a watermark to a document,  click the **Watermark** ![previewButtonWatermark](../../../../images/img7281.png) button on the toolbar, or click **Watermark...** on the **Background** menu. The **Watermark** dialog will be invoked.

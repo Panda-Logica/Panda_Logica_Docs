@@ -1,8 +1,3 @@
----
-title: Data Presentation Basics
-author: Natalia Kazakova
-legacyId: 16554
----
 # Data Presentation Basics
 The Treemap dashboard item visualizes data in nested rectangles that are called _tiles_.
 

@@ -1,8 +1,3 @@
----
-title: Hidden Data Items
-author: Natalia Kazakova
-legacyId: 15770
----
 # Hidden Data Items
 The **HIDDEN DATA ITEMS** area can be used to perform various [data shaping](../data-shaping.md) and analysis operations by measures or dimensions that do not directly take part in the visual representation of data.
 

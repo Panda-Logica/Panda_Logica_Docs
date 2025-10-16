@@ -1,8 +1,3 @@
----
-title: Work with Data
-author: Natalia Kazakova
-legacyId: 114172
----
 # Work with Data
 The topics in this section describe how to work with data in a [connected](provide-data.md) data source.
 

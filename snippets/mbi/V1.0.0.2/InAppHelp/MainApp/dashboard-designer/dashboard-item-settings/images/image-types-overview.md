@@ -1,8 +1,3 @@
----
-title: Image Types Overview
-author: Natalia Kazakova
-legacyId: 116560
----
 # Image Types Overview
 The **Dashboard Designer** allows you to create two types of an **Image** dashboard item.
 * The **Image** dashboard item allows you to add **static** images to a dashboard.

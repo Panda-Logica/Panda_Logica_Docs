@@ -1,8 +1,3 @@
----
-title: Interactivity
-author: Natalia Kazakova
-legacyId: 16872
----
 # Interactivity
 This document describes the features that enable interaction between the **Text Box** and other dashboard items. These features include **Master Filtering**.
 

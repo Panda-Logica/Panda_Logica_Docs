@@ -1,8 +1,3 @@
----
-title: Interactivity
-author: Natalia Kazakova
-legacyId: 16597
----
 # Interactivity
 This section describes features that enable interaction between the **Gauge** dashboard item and other items. These features include **Master Filtering** and **Drill-Down**.
 

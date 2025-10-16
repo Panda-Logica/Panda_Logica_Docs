@@ -1,8 +1,3 @@
----
-title: Create a Dashboard Parameter
-author: Natalia Kazakova
-legacyId: 16522
----
 # Create a Dashboard Parameter in the WinForms Designer
 
 This topic shows how to add a new dashboard parameter and specify its settings in the Dashboard Designer.

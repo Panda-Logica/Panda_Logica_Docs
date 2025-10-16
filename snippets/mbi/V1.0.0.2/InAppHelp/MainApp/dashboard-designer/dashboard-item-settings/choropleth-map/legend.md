@@ -1,8 +1,3 @@
----
-title: Legend
-author: Natalia Kazakova
-legacyId: 16611
----
 # Legend
 A legend is an element of a map that shows values corresponding to each [color](map-coloring.md).
 

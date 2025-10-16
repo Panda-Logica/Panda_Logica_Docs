@@ -1,8 +1,3 @@
----
-title: Bar Gradient Ranges
-author: Natalia Kazakova
-legacyId: 115244
----
 # Bar Gradient Ranges
 The Bar Gradient Ranges allow you to visualize numeric values using bars whose colors are contained in the specified color gradient.
 

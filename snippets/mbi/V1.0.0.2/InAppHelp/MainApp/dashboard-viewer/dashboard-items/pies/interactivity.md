@@ -1,8 +1,3 @@
----
-title: Interactivity
-author: Natalia Kazakova
-legacyId: 16670
----
 # Interactivity
 This topic describes features that enable interaction between the **Pie** and other dashboard items. These features include **Master Filtering** and **Drill-Down**.
 
