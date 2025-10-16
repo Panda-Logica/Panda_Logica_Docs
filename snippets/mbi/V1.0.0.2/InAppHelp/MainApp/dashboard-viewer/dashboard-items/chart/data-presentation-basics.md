@@ -1,7 +1,7 @@
 # Data Presentation Basics
 The **Chart** dashboard item presents data visually using different types of series.
 
-![MainFeatures_Chart](../../../../MainApp/images/img18175.png)
+![MainFeatures_Chart](../../../../images/img18175.png)
 
 A series represents a grouping of related data points. The most important characteristic of a series is its type, which determines a particular visual representation of data.
 
