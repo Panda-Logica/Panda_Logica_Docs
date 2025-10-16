@@ -1,9 +1,4 @@
----
-title: Print Preview for WinForms
-author: Eugeniy Burmistrov
-legacyId: 4847
----
-# Print Preview for WinForms
+# Print Preview
 This section describes the capabilities provided by the Print Preview form. 
 
 ![Preview_Main](../../MainApp/images/img9129.png)
