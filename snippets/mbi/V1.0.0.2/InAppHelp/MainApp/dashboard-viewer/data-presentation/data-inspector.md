@@ -3,13 +3,13 @@
 
 ## Overview
 
-To invoke the Data Inspector window, click the "Inspect Data" button ![](../../../images/inspect-data-winforms.png) in the [dashboard item caption](../../dashboard-designer/dashboard-layout/dashboard-item-caption.md) or select the "Inspect Data" context menu item. 
+To invoke the Data Inspector window, click the "Inspect Data" button ![](../../../MainApp/images/inspect-data-winforms.png) in the [dashboard item caption](../../dashboard-designer/dashboard-layout/dashboard-item-caption.md) or select the "Inspect Data" context menu item. 
 
 ## Aggregated (Displayed) Data
 
 The data shown as _Aggregated_ is retrieved from the dashboard item's data storage.
 
-![](../../../images/data-inspector-aggr.png)
+![](../../../MainApp/images/data-inspector-aggr.png)
 
 The columns are:
 
@@ -21,4 +21,4 @@ The columns are:
 
 Raw data is the dashboard item's underlying data. 
 
-![](../../../images/data-inspector-raw.png)
+![](../../../MainApp/images/data-inspector-raw.png)
