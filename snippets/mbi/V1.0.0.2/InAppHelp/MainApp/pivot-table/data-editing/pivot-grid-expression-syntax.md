@@ -1,7 +1,3 @@
----
-title: Pivot Grid Expression Syntax
-author: Margarita Zakhodyaeva
----
 # Pivot Grid Expression Syntax
 
 The following topic contains constants, operators, and functions you can use in Pivot Grid [expressions](edit-unbound-expression.md).
@@ -57,7 +53,7 @@ The following topic contains constants, operators, and functions you can use in 
 
 | Function | Description | Example |
 |---|---|---|
-| Avg(Value) | Returns the average of the values. <br> ![func-average](../../../images/func_average4457.png) </br> | Avg([Quantity]) returns an average quantity of goods in an order, if the pivot table is built upon the data table where each row is an order. The Quantity values are summarized for all orders in the underlying data table, and the result is divided by the total number of orders.|                             
+| Avg(Value) | Returns the average of the values. <br> ![func-average](../../../MainApp/images/func_average4457.png) </br> | Avg([Quantity]) returns an average quantity of goods in an order, if the pivot table is built upon the data table where each row is an order. The Quantity values are summarized for all orders in the underlying data table, and the result is divided by the total number of orders.|                             
 | Count() | Returns the number of records in the underlying data table. | Count() |
 |IsTotal(Dimension1, Dimension2, …)|Determines whether a total summary value is being calculated.|Not IsTotal([fieldProductName]) And FirstValue([fieldCategoryName]) = ‘Beverages’
 |FirstValue()|Returns the first value from rows used to calculate an aggregate value.|FirstValue([ProductName]) returns the first product among all products in the underlying data table, if the pivot table is built upon the data table where each row is a product.
