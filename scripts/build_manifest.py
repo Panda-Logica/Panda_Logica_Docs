@@ -78,6 +78,72 @@ def build_node_for_md(root: Path, p: Path) -> Dict[str, Any]:
     }
 
 def build_tree(root: Path, folder: Path) -> List[Dict[str, Any]]:
+    """Build tree with optional manual ordering via _order.json"""
+    children: List[Dict[str, Any]] = []
+
+    # 1) Collect direct md files
+    md_files = [x for x in folder.iterdir() if x.is_file() and x.suffix.lower() == '.md']
+    for md in sorted(md_files):
+        children.append(build_node_for_md(root, md))
+
+    # 2) Collect subfolders
+    subfolders = [d for d in folder.iterdir() if d.is_dir()]
+    for sub in sorted(subfolders):
+        if sub.name.startswith('.') or sub.name.lower() in ('.git', '.github', '__pycache__', 'node_modules'):
+            continue
+        collapse, the_md = folder_has_exactly_one_md(sub)
+        if collapse and the_md is not None:
+            children.append(build_node_for_md(root, the_md))
+        else:
+            sub_children = build_tree(root, sub)
+            if sub_children:
+                node = {
+                    "title": re.sub(r'[_-]+', ' ', sub.name).strip().title(),
+                    "slug": str(sub.relative_to(root)).replace(os.sep, '/'),
+                    "children": sub_children
+                }
+                children.append(node)
+
+    # 3) Apply optional manual ordering
+    order_file = folder / "_order.json"
+    if order_file.exists():
+        try:
+            order_text = order_file.read_text(encoding="utf-8")
+            order_spec = json.loads(order_text)
+
+            ordered = []
+            seen = set()
+
+            # Handle numeric or simple form
+            if order_spec and isinstance(order_spec[0], dict):
+                # Explicit object list with "name" and "order"
+                order_spec.sort(key=lambda x: x.get("order", 9999))
+                names = [x.get("name") for x in order_spec if "name" in x]
+            else:
+                # Simple array of names
+                names = order_spec
+
+            for name in names:
+                found = next(
+                    (c for c in children if (
+                        (not "children" in c and Path(c["slug"]).name == name)
+                        or ("children" in c and Path(c["slug"]).name == name)
+                    )),
+                    None
+                )
+                if found:
+                    ordered.append(found)
+                    seen.add(found["slug"])
+
+            # Append any remaining items not in _order.json
+            ordered.extend([c for c in children if c["slug"] not in seen])
+            children = ordered
+
+        except Exception as e:
+            print(f"⚠️  Error reading {order_file}: {e}")
+
+    return children
+
     """
     Returns a list of child nodes for 'folder'.
     Each child is either:
