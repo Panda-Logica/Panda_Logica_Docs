@@ -2099,7 +2099,7 @@
                 "title": "Create a Dashboard",
                 "slug": "InAppHelp/MainApp/dashboard-designer/create-a-dashboard.md",
                 "sha256": "5f0f8f1fe199c907cea98c8497ad0d8b31f5a9e4779d4fd79f94ce2c78e1bf4a",
-                "order": 6,
+                "order": 2,
                 "heading_level": 1,
                 "last_modified": "2025-10-15T02:19:57.399686+00:00"
               },
@@ -2107,7 +2107,7 @@
                 "title": "Dashboard Designer",
                 "slug": "InAppHelp/MainApp/dashboard-designer/dashboard-designer.md",
                 "sha256": "7b5fd47e7aefaf42949065ce49aa8756ecdf996b84c181f539bdf9b4e90d59a2",
-                "order": 7,
+                "order": 1,
                 "heading_level": 1,
                 "last_modified": "2025-10-16T06:56:52.704025+00:00"
               },
