@@ -17,7 +17,7 @@ This topic describes how to change dashboard parameter values.
 
 ## Printing and Exporting
 A Dashboard Viewer provides the capability to print or export both individual items of a dashboard, as well as the entire dashboard.
-* [Printing and Exporting](printing-and-exporting.md)
+* [Printing and Exporting](dashboard-viewer/printing-and-exporting.md)
 
 ## Dashboard Items
 Dashboard items are used to present information in various ways.
