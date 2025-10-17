@@ -78,6 +78,22 @@
         "slug": "InAppHelp/MainApp",
         "children": [
           {
+            "title": "Dashboard Designer",
+            "slug": "InAppHelp/MainApp/dashboard-designer.md",
+            "sha256": "bf3eafaba7ec64f99ebcd9fe251191ea188c035b8f8cd1ad725a41256d244c24",
+            "order": 0,
+            "heading_level": 1,
+            "last_modified": "2025-10-17T04:53:52.389152+00:00"
+          },
+          {
+            "title": "Dashboard Viewer",
+            "slug": "InAppHelp/MainApp/dashboard-viewer.md",
+            "sha256": "1de56b61840c017218e0417df00e4d389a90e6f192f25e476b76549ae6cd6833",
+            "order": 0,
+            "heading_level": 1,
+            "last_modified": "2025-10-16T06:48:44.388644+00:00"
+          },
+          {
             "title": "Dashboard Accordion",
             "slug": "InAppHelp/MainApp/DashboardAccordion.md",
             "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
@@ -86,12 +102,52 @@
             "last_modified": "2025-10-15T00:31:50.799173+00:00"
           },
           {
+            "title": "Grid",
+            "slug": "InAppHelp/MainApp/grid.md",
+            "sha256": "0e4827597ed0fd30dfddc9e22517503bdf9c831d08271494835f87915978d87e",
+            "order": 0,
+            "heading_level": 1,
+            "last_modified": "2025-10-16T06:48:44.391023+00:00"
+          },
+          {
+            "title": "Layout Manager",
+            "slug": "InAppHelp/MainApp/layout-manager.md",
+            "sha256": "07fa19ec9e5d9436f467dad2faa98a2458369e9442a0fa0061ea8ed580d5068a",
+            "order": 0,
+            "heading_level": 1,
+            "last_modified": "2025-10-16T06:56:52.705452+00:00"
+          },
+          {
             "title": "Main Menu Accordion",
             "slug": "InAppHelp/MainApp/MainMenuAccordion.md",
             "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
             "order": 0,
             "heading_level": 2,
             "last_modified": "2025-10-15T00:31:50.800347+00:00"
+          },
+          {
+            "title": "Pivot Table",
+            "slug": "InAppHelp/MainApp/pivot-table.md",
+            "sha256": "d2969aa87e4c5029994cae2133654f3c13d11c660df42c08aaec35821f73ce6b",
+            "order": 0,
+            "heading_level": 1,
+            "last_modified": "2025-10-16T06:56:52.706836+00:00"
+          },
+          {
+            "title": "Print Preview",
+            "slug": "InAppHelp/MainApp/print-preview.md",
+            "sha256": "187288f459caba025b49d51c0d3c76cb561ea672cf2f62f8fc6a3f58043d3faf",
+            "order": 0,
+            "heading_level": 1,
+            "last_modified": "2025-10-16T06:56:52.711286+00:00"
+          },
+          {
+            "title": "Ribbon",
+            "slug": "InAppHelp/MainApp/ribbon.md",
+            "sha256": "19007e71733bbd63212b69e36d41dd0287aaa4c1d2bc7b54f5eb02eba2298a2c",
+            "order": 0,
+            "heading_level": 1,
+            "last_modified": "2025-10-16T06:56:52.712646+00:00"
           },
           {
             "title": "Ribbon Main Menu",
@@ -113,14 +169,6 @@
             "title": "Dashboard Designer",
             "slug": "InAppHelp/MainApp/dashboard-designer",
             "children": [
-              {
-                "title": "Dashboard Designer",
-                "slug": "InAppHelp/MainApp/dashboard-designer/dashboard-designer.md",
-                "sha256": "7b5fd47e7aefaf42949065ce49aa8756ecdf996b84c181f539bdf9b4e90d59a2",
-                "order": 0,
-                "heading_level": 1,
-                "last_modified": "2025-10-16T06:56:52.704025+00:00"
-              },
               {
                 "title": "Create a Dashboard",
                 "slug": "InAppHelp/MainApp/dashboard-designer/create-a-dashboard.md",
@@ -2246,14 +2294,6 @@
                 "last_modified": "2025-10-16T04:54:31.220192+00:00"
               },
               {
-                "title": "Dashboard Viewer",
-                "slug": "InAppHelp/MainApp/dashboard-viewer/dashboard-viewer.md",
-                "sha256": "1de56b61840c017218e0417df00e4d389a90e6f192f25e476b76549ae6cd6833",
-                "order": 0,
-                "heading_level": 1,
-                "last_modified": "2025-10-16T06:48:44.388644+00:00"
-              },
-              {
                 "title": "Printing and Exporting",
                 "slug": "InAppHelp/MainApp/dashboard-viewer/printing-and-exporting.md",
                 "sha256": "0cf1766aa28a5ffddcbbb9d80e7172c9b55dfce945a4d6e75432b9cce566f0af",
@@ -2780,14 +2820,6 @@
             "slug": "InAppHelp/MainApp/grid",
             "children": [
               {
-                "title": "Grid",
-                "slug": "InAppHelp/MainApp/grid/grid.md",
-                "sha256": "0e4827597ed0fd30dfddc9e22517503bdf9c831d08271494835f87915978d87e",
-                "order": 0,
-                "heading_level": 1,
-                "last_modified": "2025-10-16T06:48:44.391023+00:00"
-              },
-              {
                 "title": "Data Analysis",
                 "slug": "InAppHelp/MainApp/grid/data-analysis",
                 "children": [
@@ -2960,14 +2992,6 @@
             "slug": "InAppHelp/MainApp/layout-manager",
             "children": [
               {
-                "title": "Layout Manager",
-                "slug": "InAppHelp/MainApp/layout-manager/layout-manager.md",
-                "sha256": "07fa19ec9e5d9436f467dad2faa98a2458369e9442a0fa0061ea8ed580d5068a",
-                "order": 0,
-                "heading_level": 1,
-                "last_modified": "2025-10-16T06:56:52.705452+00:00"
-              },
-              {
                 "title": "Layout Customization",
                 "slug": "InAppHelp/MainApp/layout-manager/layout-customization",
                 "children": [
@@ -3082,14 +3106,6 @@
                 "order": 0,
                 "heading_level": 1,
                 "last_modified": "2025-10-16T04:15:22.454826+00:00"
-              },
-              {
-                "title": "Pivot Table",
-                "slug": "InAppHelp/MainApp/pivot-table/pivot-table.md",
-                "sha256": "d2969aa87e4c5029994cae2133654f3c13d11c660df42c08aaec35821f73ce6b",
-                "order": 0,
-                "heading_level": 1,
-                "last_modified": "2025-10-16T06:56:52.706836+00:00"
               },
               {
                 "title": "Select Cells in Pivot Tables",
@@ -3476,14 +3492,6 @@
                 "order": 0,
                 "heading_level": 1,
                 "last_modified": "2025-10-16T07:25:13.003097+00:00"
-              },
-              {
-                "title": "Print Preview",
-                "slug": "InAppHelp/MainApp/print-preview/print-preview.md",
-                "sha256": "187288f459caba025b49d51c0d3c76cb561ea672cf2f62f8fc6a3f58043d3faf",
-                "order": 0,
-                "heading_level": 1,
-                "last_modified": "2025-10-16T06:56:52.711286+00:00"
               },
               {
                 "title": "Print Preview For Winforms",
@@ -4180,14 +4188,6 @@
                 "order": 0,
                 "heading_level": 1,
                 "last_modified": "2025-10-16T04:15:22.468833+00:00"
-              },
-              {
-                "title": "Ribbon",
-                "slug": "InAppHelp/MainApp/ribbon/ribbon.md",
-                "sha256": "19007e71733bbd63212b69e36d41dd0287aaa4c1d2bc7b54f5eb02eba2298a2c",
-                "order": 0,
-                "heading_level": 1,
-                "last_modified": "2025-10-16T06:56:52.712646+00:00"
               }
             ]
           }
