@@ -13,7 +13,7 @@ This section describes the capabilities provided by the Grid control, which repr
 
 **Data Presentation**
 * [Sort Grid Rows](data-presentation/sort-grid-rows.md)
-* [Group Grid Rows](data-presentation/group-grid-rows.md)
+* [Group Grid Rows](grid/data-presentation/group-grid-rows.md)
 * [Fix Grid Rows](data-presentation/fix-grid-rows.md)
 
 &nbsp;
