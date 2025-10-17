@@ -80,18 +80,18 @@
           {
             "title": "Dashboard Designer",
             "slug": "InAppHelp/MainApp/dashboard-designer.md",
-            "sha256": "bf3eafaba7ec64f99ebcd9fe251191ea188c035b8f8cd1ad725a41256d244c24",
+            "sha256": "065b10abe7611101ff911fdaff786028a8f92d517736cb2dde395b0049572677",
             "order": 0,
             "heading_level": 1,
-            "last_modified": "2025-10-17T04:53:52.389152+00:00"
+            "last_modified": "2025-10-17T08:12:58.840692+00:00"
           },
           {
             "title": "Dashboard Viewer",
             "slug": "InAppHelp/MainApp/dashboard-viewer.md",
-            "sha256": "1de56b61840c017218e0417df00e4d389a90e6f192f25e476b76549ae6cd6833",
+            "sha256": "aed36678f213dd5175ab380940ce964009ce89e78c273b939ffdfdc4d353b33f",
             "order": 0,
             "heading_level": 1,
-            "last_modified": "2025-10-16T06:48:44.388644+00:00"
+            "last_modified": "2025-10-17T07:56:01.943341+00:00"
           },
           {
             "title": "Dashboard Accordion",
@@ -104,18 +104,18 @@
           {
             "title": "Grid",
             "slug": "InAppHelp/MainApp/grid.md",
-            "sha256": "0e4827597ed0fd30dfddc9e22517503bdf9c831d08271494835f87915978d87e",
+            "sha256": "fbb7a321a45f87b6d45a182415617b64c785c2900a39fd1cf532a85032f8a178",
             "order": 0,
             "heading_level": 1,
-            "last_modified": "2025-10-16T06:48:44.391023+00:00"
+            "last_modified": "2025-10-17T08:12:58.842121+00:00"
           },
           {
             "title": "Layout Manager",
             "slug": "InAppHelp/MainApp/layout-manager.md",
-            "sha256": "07fa19ec9e5d9436f467dad2faa98a2458369e9442a0fa0061ea8ed580d5068a",
+            "sha256": "80fe1cffe68c0f2043734efd81ba4fb9d7a9ab5158967b9a662cce41a104671f",
             "order": 0,
             "heading_level": 1,
-            "last_modified": "2025-10-16T06:56:52.705452+00:00"
+            "last_modified": "2025-10-17T08:12:58.843128+00:00"
           },
           {
             "title": "Main Menu Accordion",
@@ -128,26 +128,26 @@
           {
             "title": "Pivot Table",
             "slug": "InAppHelp/MainApp/pivot-table.md",
-            "sha256": "d2969aa87e4c5029994cae2133654f3c13d11c660df42c08aaec35821f73ce6b",
+            "sha256": "37718c1541e52caa89839217bad42af2560948466c9cf7d5facc6eecb862def1",
             "order": 0,
             "heading_level": 1,
-            "last_modified": "2025-10-16T06:56:52.706836+00:00"
+            "last_modified": "2025-10-17T08:12:58.845963+00:00"
           },
           {
             "title": "Print Preview",
             "slug": "InAppHelp/MainApp/print-preview.md",
-            "sha256": "187288f459caba025b49d51c0d3c76cb561ea672cf2f62f8fc6a3f58043d3faf",
+            "sha256": "cb3ea0d293e6cf2b88f69c4d1098ea66fccc314e84c18d093f385322c2fb0cb8",
             "order": 0,
             "heading_level": 1,
-            "last_modified": "2025-10-16T06:56:52.711286+00:00"
+            "last_modified": "2025-10-17T08:12:58.846960+00:00"
           },
           {
             "title": "Ribbon",
             "slug": "InAppHelp/MainApp/ribbon.md",
-            "sha256": "19007e71733bbd63212b69e36d41dd0287aaa4c1d2bc7b54f5eb02eba2298a2c",
+            "sha256": "433b0105f372d1bc1c5958e89bf50a417c5a64f9adbd3cafbf1bab766721d44d",
             "order": 0,
             "heading_level": 1,
-            "last_modified": "2025-10-16T06:56:52.712646+00:00"
+            "last_modified": "2025-10-17T08:12:58.847964+00:00"
           },
           {
             "title": "Ribbon Main Menu",
@@ -278,14 +278,6 @@
                     "last_modified": "2025-10-16T07:25:13.217524+00:00"
                   },
                   {
-                    "title": "Provide Data",
-                    "slug": "InAppHelp/MainApp/dashboard-designer/provide-data/provide-data.md",
-                    "sha256": "c0d72db7dab74a9b64fc1a4a59be458e73d020a298b086b94784b7d480ebf2eb",
-                    "order": 0,
-                    "heading_level": 1,
-                    "last_modified": "2025-10-16T07:25:12.991433+00:00"
-                  },
-                  {
                     "title": "Supported Data Sources",
                     "slug": "InAppHelp/MainApp/dashboard-designer/provide-data/supported-data-sources.md",
                     "sha256": "88e720cbfb8156c27549ef1162bd3c9717efe3e8bb9472d0617c850e55bd0d84",
@@ -378,14 +370,6 @@
                     "order": 0,
                     "heading_level": 1,
                     "last_modified": "2025-10-16T07:25:13.234865+00:00"
-                  },
-                  {
-                    "title": "Work with Data",
-                    "slug": "InAppHelp/MainApp/dashboard-designer/work-with-data/work-with-data.md",
-                    "sha256": "ccd09ef945022475a6c7574ec78915a82a6fe5f0dc6d907254e7146bfff923c7",
-                    "order": 0,
-                    "heading_level": 1,
-                    "last_modified": "2025-10-16T07:25:12.996898+00:00"
                   }
                 ]
               },
@@ -462,14 +446,6 @@
                     "order": 0,
                     "heading_level": 1,
                     "last_modified": "2025-10-16T07:25:13.163026+00:00"
-                  },
-                  {
-                    "title": "Dashboard Item Settings",
-                    "slug": "InAppHelp/MainApp/dashboard-designer/dashboard-item-settings/dashboard-item-settings.md",
-                    "sha256": "9f5ce30c9685f8159215b7b352fcf30e476f0688e828be4d96ea7c815b24e263",
-                    "order": 0,
-                    "heading_level": 1,
-                    "last_modified": "2025-10-16T07:25:12.983958+00:00"
                   },
                   {
                     "title": "Date Filter",
@@ -1746,14 +1722,6 @@
                 "slug": "InAppHelp/MainApp/dashboard-designer/data-shaping",
                 "children": [
                   {
-                    "title": "Data Shaping",
-                    "slug": "InAppHelp/MainApp/dashboard-designer/data-shaping/data-shaping.md",
-                    "sha256": "4e3da5aa406051999352a540079dfef8863f0e0e02de09b8ac8eee0b66cdb0fc",
-                    "order": 0,
-                    "heading_level": 1,
-                    "last_modified": "2025-10-16T07:25:12.987185+00:00"
-                  },
-                  {
                     "title": "Filtering",
                     "slug": "InAppHelp/MainApp/dashboard-designer/data-shaping/filtering.md",
                     "sha256": "c7e90df1d70799e4e2419e274a4246eb493e87830554e6088be81b6f2a0cc77d",
@@ -1816,14 +1784,6 @@
                     "last_modified": "2025-10-16T07:25:13.199984+00:00"
                   },
                   {
-                    "title": "Interactivity",
-                    "slug": "InAppHelp/MainApp/dashboard-designer/interactivity/interactivity.md",
-                    "sha256": "075e176feed0e60e9d68e7083b94a89457ec5630c5c3f0553a2f7f17e2acd990",
-                    "order": 0,
-                    "heading_level": 1,
-                    "last_modified": "2025-10-16T07:25:12.988310+00:00"
-                  },
-                  {
                     "title": "Master Filtering",
                     "slug": "InAppHelp/MainApp/dashboard-designer/interactivity/master-filtering.md",
                     "sha256": "ebcfc108095423fe4dfbb246a91056698f6a3b768525b612ae2a6917b64113b6",
@@ -1845,14 +1805,6 @@
                 "title": "Appearance Customization",
                 "slug": "InAppHelp/MainApp/dashboard-designer/appearance-customization",
                 "children": [
-                  {
-                    "title": "Appearance Customization",
-                    "slug": "InAppHelp/MainApp/dashboard-designer/appearance-customization/appearance-customization.md",
-                    "sha256": "d7ef98e314aaca189eb2a99ed1fc6159649331b3230443de8138539ab90f614d",
-                    "order": 0,
-                    "heading_level": 1,
-                    "last_modified": "2025-10-16T07:25:12.978841+00:00"
-                  },
                   {
                     "title": "Coloring",
                     "slug": "InAppHelp/MainApp/dashboard-designer/appearance-customization/coloring.md",
@@ -2006,14 +1958,6 @@
                     "order": 0,
                     "heading_level": 1,
                     "last_modified": "2025-10-16T07:25:13.187145+00:00"
-                  },
-                  {
-                    "title": "Data Analysis",
-                    "slug": "InAppHelp/MainApp/dashboard-designer/data-analysis/data-analysis.md",
-                    "sha256": "7cb819bbc36ef3ee6a91e03a002b42394bbfa0aa4dfca2a517b95a027397418f",
-                    "order": 0,
-                    "heading_level": 1,
-                    "last_modified": "2025-10-16T07:25:12.986102+00:00"
                   },
                   {
                     "title": "Expression Constants, Operators, and Functions",
@@ -2176,14 +2120,6 @@
                     "last_modified": "2025-10-16T07:25:13.183959+00:00"
                   },
                   {
-                    "title": "Dashboard Layout",
-                    "slug": "InAppHelp/MainApp/dashboard-designer/dashboard-layout/dashboard-layout.md",
-                    "sha256": "618296852980c3461c0c07c21badecc4a371ea5b5fea4fe4bd7c2a0dbbd02646",
-                    "order": 0,
-                    "heading_level": 1,
-                    "last_modified": "2025-10-16T07:25:12.984963+00:00"
-                  },
-                  {
                     "title": "Dashboard Title",
                     "slug": "InAppHelp/MainApp/dashboard-designer/dashboard-layout/dashboard-title.md",
                     "sha256": "0c934d64e8b6a47e05af61a34d07fa190041051cb3c0eb9b8b5b0c1dc163d8f8",
@@ -2260,16 +2196,16 @@
                     "order": 0,
                     "heading_level": 1,
                     "last_modified": "2025-10-16T07:25:13.223034+00:00"
-                  },
-                  {
-                    "title": "UI Elements",
-                    "slug": "InAppHelp/MainApp/dashboard-designer/ui-elements/ui-elements.md",
-                    "sha256": "399b21c1af5567a9bfca8ee7d7b202c6007c8785fbd6a3a9a986f56c388b3bb4",
-                    "order": 0,
-                    "heading_level": 1,
-                    "last_modified": "2025-10-16T07:25:12.993460+00:00"
                   }
                 ]
+              },
+              {
+                "title": "Appearance Customization",
+                "slug": "InAppHelp/MainApp/dashboard-designer/appearance-customization.md",
+                "sha256": "d7ef98e314aaca189eb2a99ed1fc6159649331b3230443de8138539ab90f614d",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2025-10-16T07:25:12.978841+00:00"
               },
               {
                 "title": "Bind Dashboard Items to Data",
@@ -2278,6 +2214,70 @@
                 "order": 0,
                 "heading_level": 1,
                 "last_modified": "2025-10-16T07:25:12.980850+00:00"
+              },
+              {
+                "title": "Dashboard Item Settings",
+                "slug": "InAppHelp/MainApp/dashboard-designer/dashboard-item-settings.md",
+                "sha256": "9f5ce30c9685f8159215b7b352fcf30e476f0688e828be4d96ea7c815b24e263",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2025-10-16T07:25:12.983958+00:00"
+              },
+              {
+                "title": "Dashboard Layout",
+                "slug": "InAppHelp/MainApp/dashboard-designer/dashboard-layout.md",
+                "sha256": "618296852980c3461c0c07c21badecc4a371ea5b5fea4fe4bd7c2a0dbbd02646",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2025-10-16T07:25:12.984963+00:00"
+              },
+              {
+                "title": "Data Analysis",
+                "slug": "InAppHelp/MainApp/dashboard-designer/data-analysis.md",
+                "sha256": "7cb819bbc36ef3ee6a91e03a002b42394bbfa0aa4dfca2a517b95a027397418f",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2025-10-16T07:25:12.986102+00:00"
+              },
+              {
+                "title": "Data Shaping",
+                "slug": "InAppHelp/MainApp/dashboard-designer/data-shaping.md",
+                "sha256": "4e3da5aa406051999352a540079dfef8863f0e0e02de09b8ac8eee0b66cdb0fc",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2025-10-16T07:25:12.987185+00:00"
+              },
+              {
+                "title": "Interactivity",
+                "slug": "InAppHelp/MainApp/dashboard-designer/interactivity.md",
+                "sha256": "075e176feed0e60e9d68e7083b94a89457ec5630c5c3f0553a2f7f17e2acd990",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2025-10-16T07:25:12.988310+00:00"
+              },
+              {
+                "title": "Provide Data",
+                "slug": "InAppHelp/MainApp/dashboard-designer/provide-data.md",
+                "sha256": "c0d72db7dab74a9b64fc1a4a59be458e73d020a298b086b94784b7d480ebf2eb",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2025-10-16T07:25:12.991433+00:00"
+              },
+              {
+                "title": "UI Elements",
+                "slug": "InAppHelp/MainApp/dashboard-designer/ui-elements.md",
+                "sha256": "399b21c1af5567a9bfca8ee7d7b202c6007c8785fbd6a3a9a986f56c388b3bb4",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2025-10-16T07:25:12.993460+00:00"
+              },
+              {
+                "title": "Work with Data",
+                "slug": "InAppHelp/MainApp/dashboard-designer/work-with-data.md",
+                "sha256": "ccd09ef945022475a6c7574ec78915a82a6fe5f0dc6d907254e7146bfff923c7",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2025-10-16T07:25:12.996898+00:00"
               }
             ]
           },
@@ -3054,10 +3054,10 @@
                   {
                     "title": "Start Layout Customization",
                     "slug": "InAppHelp/MainApp/layout-manager/layout-customization/start-layout-customization.md",
-                    "sha256": "dfb9d55dae81b5852a80cae56d0e497a20afde3315228f1437dd49568ae7c909",
+                    "sha256": "0ca81dbb1e4e2a754b725871c5948a16d599ade0e15a59018cf6282a56b9906f",
                     "order": 0,
                     "heading_level": 1,
-                    "last_modified": "2025-10-16T04:15:22.423535+00:00"
+                    "last_modified": "2025-10-17T08:12:58.844548+00:00"
                   },
                   {
                     "title": "Work with Interface Element Groups",
