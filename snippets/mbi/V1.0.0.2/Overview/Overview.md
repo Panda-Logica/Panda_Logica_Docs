@@ -2,7 +2,7 @@
 
 This document explains, in plain language, how MBI is configured so it can connect to your business database and show dashboards and reports.
 
-![MBI architecture diagram](./images/MBI%20Overview.jpg)
+[Open the diagram](./images/MBI%20Overview.jpg)
 
 ---
 
