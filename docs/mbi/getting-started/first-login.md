@@ -44,7 +44,7 @@ Welcome! This guide walks you through your **first sign-in**, **license activati
 - Access it later from **Saved Layouts**.
 
 ## 6) Next steps
-- **Create a dashboard**: see **[Dashboards](../user-guides/dashboards.md)**.
+- **Set up a report**: see **[Setting Up a Report](../user-guides/setting-up-a-report.md)**.
 - **Master data & joins**: see **[ASR Setup](../admin-guides/asr-setup.md)**.
 - **Calculated fields**: see **[Advanced → Calculated Fields](../advanced/calculated-fields.md)**.
 
