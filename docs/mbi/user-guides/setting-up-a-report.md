@@ -1,6 +1,6 @@
 # Setting Up a Report in MBI
 
-_Last updated: 2026-06-15_
+_Last updated: 2026-06-24_
 
 This guide shows how to open a report, choose the right view, apply filters, and save your setup so you can reuse it next time.
 
@@ -26,6 +26,14 @@ MBI opens the report in a new tab. Most reports have two views:
 |-----|------------|
 | **Dashboard** | Charts, KPIs, and summary visuals |
 | **Grid** | Detailed rows you can filter, sort, group, and export |
+
+![Open a report from the Sales menu — choose Sales Overview](../screenshots/dashboard/Screenshot%202026-03-25%20112309.jpg)
+
+On the **Report** tab you can choose how the report opens:
+
+- **Route to dashboard** — land on the Dashboard tab first
+- **Route to grid** — land on the Grid tab first
+- **Run with defaults** — use the report’s default filters and layout
 
 ![Sales Overview report open in MBI with the left menu and Grid tab visible](../screenshots/Screenshot%202026-03-25%20113208.jpg)
 
@@ -56,6 +64,51 @@ If the report includes dashboards:
    - **Standard** — shared layouts provided by your administrator
    - **Personal** — layouts you have saved yourself
 3. MBI remembers your last choice for that report.
+
+![Choose a Standard or Personal dashboard layout](../screenshots/dashboard/Screenshot%202026-03-25%20114515.jpg)
+
+Many reports include several dashboard views on tabs across the top — for example **Regions**, **Reps**, **Month vs Month**, **Year on Year**, and **Payment Arrears**.
+
+### Regions view
+
+The **Regions** tab shows geographic breakdowns with maps and trend tables. Use the **Item category** filter on the left to narrow the data.
+
+![Sales Overview dashboard — Regions tab with maps and trends](../screenshots/dashboard/Screenshot%202026-03-25%20112454.jpg)
+
+### Reps view
+
+The **Reps** tab compares sales representatives with bar and line charts. Filter by **Invoice date** and individual reps in the left panel.
+
+![Sales Overview dashboard — Reps tab with sales and profit charts](../screenshots/dashboard/Screenshot%202026-03-25%20112628.jpg)
+
+### Month vs Month view
+
+The **Month vs Month** tab shows summary cards and comparison bar charts by customer, item category, and sales rep.
+
+![Sales Overview dashboard — Month vs Month summary cards](../screenshots/dashboard/Screenshot%202026-03-25%20112647.jpg)
+
+![Sales Overview dashboard — Month vs Month detail by customer group](../screenshots/dashboard/Screenshot%202026-03-25%20112710.jpg)
+
+### Payment arrears view
+
+The **PAYMENT ARREARS** tab highlights overdue balances with colour-coded tables for open arrears and arrears history.
+
+![Sales Overview dashboard — Payment arrears heatmaps](../screenshots/dashboard/Screenshot%202026-03-25%20112946.jpg)
+
+### Other dashboard layouts
+
+Some reports offer alternative layouts — for example **Sales Analytic** with order trends, profit margin breakdowns, and a sales-by-customer treemap.
+
+![Sales Analytic dashboard layout](../screenshots/dashboard/Screenshot%202026-03-25%20114437.jpg)
+
+### Dashboard options
+
+On the **Dashboard Options** ribbon you can:
+
+- Toggle **Show popup menu** and **Show underlying data** for drill-down behaviour
+- Click **Launch dashboard designer** to customise the layout (if your administrator has granted access)
+
+Use the export, refresh, and maximise icons on each chart panel to work with individual visuals.
 
 ---
 
