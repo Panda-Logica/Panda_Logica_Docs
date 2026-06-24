@@ -16,6 +16,17 @@ GITHUB_ORG = os.environ.get("DOCS_GITHUB_ORG", "Panda-Logica")
 GITHUB_REPO = os.environ.get("DOCS_GITHUB_REPO", "Panda_Logica_Docs")
 GITHUB_BRANCH = os.environ.get("DOCS_GITHUB_BRANCH", "gh-pages")
 
+# Top-level folders produced from docs/mbi/*.md (replaced on each build).
+USER_DOC_SECTION_SLUGS = {
+    "admin-guides",
+    "getting-started",
+    "user-guides",
+    "advanced",
+    "reference",
+    "troubleshooting",
+    "release-notes",
+}
+
 IMAGE_RE = re.compile(r"!\[([^\]]*)\]\(([^)]+)\)")
 
 
@@ -175,6 +186,47 @@ def build_docset(docset: str) -> None:
     manifest_file.write_text(json.dumps(manifest_list, indent=2), encoding="utf-8")
 
 
+def merge_with_prior_manifest(docset: str) -> None:
+    """
+    Keep InAppHelp (and other non-user-doc sections) from the deployed manifest
+    while replacing user-facing guide sections with the freshly built tree.
+    """
+
+    prior_path = os.environ.get("PRIOR_MANIFEST_PATH")
+    if not prior_path:
+        return
+
+    prior_file = pathlib.Path(prior_path)
+    if not prior_file.is_file():
+        return
+
+    version_out_dir = OUT_DIR / docset / DOCS_VERSION
+    manifest_file = version_out_dir / "manifest.json"
+    if not manifest_file.is_file():
+        return
+
+    try:
+        prior_manifest = json.loads(prior_file.read_text(encoding="utf-8"))
+        new_manifest = json.loads(manifest_file.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return
+
+    if not isinstance(prior_manifest, list):
+        return
+
+    kept_sections = [
+        section
+        for section in prior_manifest
+        if section.get("slug") not in USER_DOC_SECTION_SLUGS
+    ]
+    merged = kept_sections + new_manifest
+    manifest_file.write_text(json.dumps(merged, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(
+        f"Merged manifest: kept {len(kept_sections)} existing sections, "
+        f"added {len(new_manifest)} user-doc sections"
+    )
+
+
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     index = []
@@ -182,6 +234,7 @@ def main():
     for docset_dir in sorted(SRC_DIR.iterdir()):
         if docset_dir.is_dir():
             build_docset(docset_dir.name)
+            merge_with_prior_manifest(docset_dir.name)
             index.append(
                 {
                     "title": docset_dir.name.replace("-", " ").title() + " Documentation",

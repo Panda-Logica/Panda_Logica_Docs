@@ -22,11 +22,19 @@ jobs:
         run: |
           pip install markdown bleach
 
+      - name: Fetch existing manifest for merge
+        run: |
+          git fetch origin gh-pages --depth=1 2>/dev/null || true
+          git show origin/gh-pages:snippets/mbi/V1.0.0.2/manifest.json \
+            > /tmp/prior-manifest.json 2>/dev/null \
+            || echo '[]' > /tmp/prior-manifest.json
+
       - name: Build snippets
         run: |
           python scripts/build_snippets.py
         env:
           DOCS_VERSION: V1.0.0.2
+          PRIOR_MANIFEST_PATH: /tmp/prior-manifest.json
 
       - name: Upload artifact (debugging)
         uses: actions/upload-artifact@v4
